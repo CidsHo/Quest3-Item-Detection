@@ -9,7 +9,7 @@ A methods to detect item via Quest3 camera.
 - **Software**  
   - Python 3.11.7.  
   - Unity 2022.  
-  - OBS (Open Broadcaster Software).
+  - OBS.
 
 # Implementation Principles
 
