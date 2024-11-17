@@ -10,12 +10,12 @@ A methods to detect item via Quest3 camera.
   - Python 3.11.7.  
   - Unity 2022.  
   - OBS.
-  - Meta Developer Hub
+  - Meta Developer Hub (MDH).
 
 # Implementation Principles
 
 1. **Screen Casting**  
-   Cast the Quest's video passthrough view to the PC.
+   Cast the Quest's video passthrough view to the PC via MDH.
 
 2. **Virtual Camera Capture**  
    Use OBS's virtual camera to capture the screen-casted view from the Quest.
